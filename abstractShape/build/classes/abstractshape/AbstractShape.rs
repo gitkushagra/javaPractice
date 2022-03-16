@@ -1,0 +1,4 @@
+abstractshape.rectangle
+abstractshape.shape
+abstractshape.AbstractShape
+abstractshape.cuboid

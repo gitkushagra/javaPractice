@@ -1,0 +1,5 @@
+interfacephone.smartPhone
+interfacephone.phone
+interfacephone.imusicPlayer
+interfacephone.icamera
+interfacephone.InterfacePhone
